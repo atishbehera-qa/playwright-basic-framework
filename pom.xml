@@ -86,7 +86,7 @@
 
             <configuration>
                 <suiteXmlFiles>
-                    <suiteXmlFile>regression_one.xml</suiteXmlFile>
+                    <suiteXmlFile>src/test/resources/regression_one.xml</suiteXmlFile>
                 </suiteXmlFiles>
             </configuration>
         </plugin>
