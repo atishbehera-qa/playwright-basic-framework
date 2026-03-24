@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-24T22:20:11 IST" name="Playwright Suite" finished-at="2026-03-24T22:21:02 IST" duration-ms="50509">
+    <groups>
+    </groups>
+    <test started-at="2026-03-24T22:20:11 IST" name="Assignment One Test" finished-at="2026-03-24T22:21:02 IST" duration-ms="50509">
+      <class name="playwright.tests.Assignment_Four">
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:playwright.tests.Assignment_Four@2c767a52]" started-at="2026-03-24T22:20:51 IST" name="StartTest" finished-at="2026-03-24T22:20:59 IST" duration-ms="8087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method is-config="true" signature="ClearBrowserCache()[pri:0, instance:playwright.tests.Assignment_Four@2c767a52]" started-at="2026-03-24T22:20:59 IST" name="ClearBrowserCache" finished-at="2026-03-24T22:20:59 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearBrowserCache -->
+        <test-method signature="VerifyHomeLinkOnNewTab()[pri:0, instance:playwright.tests.Assignment_Four@2c767a52]" started-at="2026-03-24T22:20:59 IST" name="VerifyHomeLinkOnNewTab" finished-at="2026-03-24T22:21:01 IST" duration-ms="2234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomeLinkOnNewTab -->
+        <test-method is-config="true" signature="Navigate()[pri:0, instance:playwright.tests.Assignment_Four@2c767a52]" started-at="2026-03-24T22:21:01 IST" name="Navigate" finished-at="2026-03-24T22:21:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method is-config="true" signature="CloseTest()[pri:0, instance:playwright.tests.Assignment_Four@2c767a52]" started-at="2026-03-24T22:21:01 IST" name="CloseTest" finished-at="2026-03-24T22:21:02 IST" duration-ms="468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseTest -->
+      </class> <!-- playwright.tests.Assignment_Four -->
+      <class name="playwright.tests.AssignmentTest_Two">
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:playwright.tests.AssignmentTest_Two@c33b74f]" started-at="2026-03-24T22:20:39 IST" name="StartTest" finished-at="2026-03-24T22:20:47 IST" duration-ms="7131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method is-config="true" signature="ClearBrowserCache()[pri:0, instance:playwright.tests.AssignmentTest_Two@c33b74f]" started-at="2026-03-24T22:20:47 IST" name="ClearBrowserCache" finished-at="2026-03-24T22:20:47 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearBrowserCache -->
+        <test-method signature="VerifyConfirmdialogwindow()[pri:1, instance:playwright.tests.AssignmentTest_Two@c33b74f]" started-at="2026-03-24T22:20:47 IST" name="VerifyConfirmdialogwindow" finished-at="2026-03-24T22:20:47 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyConfirmdialogwindow -->
+        <test-method is-config="true" signature="Navigate()[pri:0, instance:playwright.tests.AssignmentTest_Two@c33b74f]" started-at="2026-03-24T22:20:47 IST" name="Navigate" finished-at="2026-03-24T22:20:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method is-config="true" signature="ClearBrowserCache()[pri:0, instance:playwright.tests.AssignmentTest_Two@c33b74f]" started-at="2026-03-24T22:20:47 IST" name="ClearBrowserCache" finished-at="2026-03-24T22:20:47 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearBrowserCache -->
+        <test-method signature="VerifyallRadiobuttons()[pri:2, instance:playwright.tests.AssignmentTest_Two@c33b74f]" started-at="2026-03-24T22:20:47 IST" name="VerifyallRadiobuttons" finished-at="2026-03-24T22:20:47 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyallRadiobuttons -->
+        <test-method is-config="true" signature="Navigate()[pri:0, instance:playwright.tests.AssignmentTest_Two@c33b74f]" started-at="2026-03-24T22:20:47 IST" name="Navigate" finished-at="2026-03-24T22:20:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method is-config="true" signature="ClearBrowserCache()[pri:0, instance:playwright.tests.AssignmentTest_Two@c33b74f]" started-at="2026-03-24T22:20:47 IST" name="ClearBrowserCache" finished-at="2026-03-24T22:20:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearBrowserCache -->
+        <test-method signature="VerifyIframeElements()[pri:3, instance:playwright.tests.AssignmentTest_Two@c33b74f]" started-at="2026-03-24T22:20:47 IST" name="VerifyIframeElements" finished-at="2026-03-24T22:20:47 IST" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyIframeElements -->
+        <test-method is-config="true" signature="Navigate()[pri:0, instance:playwright.tests.AssignmentTest_Two@c33b74f]" started-at="2026-03-24T22:20:47 IST" name="Navigate" finished-at="2026-03-24T22:20:47 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method is-config="true" signature="CloseTest()[pri:0, instance:playwright.tests.AssignmentTest_Two@c33b74f]" started-at="2026-03-24T22:20:47 IST" name="CloseTest" finished-at="2026-03-24T22:20:47 IST" duration-ms="380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseTest -->
+      </class> <!-- playwright.tests.AssignmentTest_Two -->
+      <class name="playwright.tests.AssignmentTest_Three">
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:playwright.tests.AssignmentTest_Three@130161f7]" started-at="2026-03-24T22:20:47 IST" name="StartTest" finished-at="2026-03-24T22:20:49 IST" duration-ms="1570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method is-config="true" signature="ClearBrowserCache()[pri:0, instance:playwright.tests.AssignmentTest_Three@130161f7]" started-at="2026-03-24T22:20:49 IST" name="ClearBrowserCache" finished-at="2026-03-24T22:20:49 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearBrowserCache -->
+        <test-method signature="VerifySelectelements()[pri:1, instance:playwright.tests.AssignmentTest_Three@130161f7]" started-at="2026-03-24T22:20:49 IST" name="VerifySelectelements" finished-at="2026-03-24T22:20:50 IST" duration-ms="1193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySelectelements -->
+        <test-method is-config="true" signature="Navigate()[pri:0, instance:playwright.tests.AssignmentTest_Three@130161f7]" started-at="2026-03-24T22:20:50 IST" name="Navigate" finished-at="2026-03-24T22:20:50 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method is-config="true" signature="ClearBrowserCache()[pri:0, instance:playwright.tests.AssignmentTest_Three@130161f7]" started-at="2026-03-24T22:20:50 IST" name="ClearBrowserCache" finished-at="2026-03-24T22:20:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearBrowserCache -->
+        <test-method signature="VerifyMultiSelectelement()[pri:2, instance:playwright.tests.AssignmentTest_Three@130161f7]" started-at="2026-03-24T22:20:50 IST" name="VerifyMultiSelectelement" finished-at="2026-03-24T22:20:51 IST" duration-ms="392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyMultiSelectelement -->
+        <test-method is-config="true" signature="Navigate()[pri:0, instance:playwright.tests.AssignmentTest_Three@130161f7]" started-at="2026-03-24T22:20:51 IST" name="Navigate" finished-at="2026-03-24T22:20:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method is-config="true" signature="CloseTest()[pri:0, instance:playwright.tests.AssignmentTest_Three@130161f7]" started-at="2026-03-24T22:20:51 IST" name="CloseTest" finished-at="2026-03-24T22:20:51 IST" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseTest -->
+      </class> <!-- playwright.tests.AssignmentTest_Three -->
+      <class name="playwright.tests.Assignment_one">
+        <test-method is-config="true" signature="StartTest()[pri:0, instance:playwright.tests.Assignment_one@28eaa59a]" started-at="2026-03-24T22:20:11 IST" name="StartTest" finished-at="2026-03-24T22:20:37 IST" duration-ms="26039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTest -->
+        <test-method is-config="true" signature="ClearBrowserCache()[pri:0, instance:playwright.tests.Assignment_one@28eaa59a]" started-at="2026-03-24T22:20:37 IST" name="ClearBrowserCache" finished-at="2026-03-24T22:20:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearBrowserCache -->
+        <test-method signature="VerifyHideButton()[pri:1, instance:playwright.tests.Assignment_one@28eaa59a]" started-at="2026-03-24T22:20:37 IST" name="VerifyHideButton" finished-at="2026-03-24T22:20:38 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHideButton -->
+        <test-method is-config="true" signature="Navigate()[pri:0, instance:playwright.tests.Assignment_one@28eaa59a]" started-at="2026-03-24T22:20:38 IST" name="Navigate" finished-at="2026-03-24T22:20:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method is-config="true" signature="ClearBrowserCache()[pri:0, instance:playwright.tests.Assignment_one@28eaa59a]" started-at="2026-03-24T22:20:38 IST" name="ClearBrowserCache" finished-at="2026-03-24T22:20:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearBrowserCache -->
+        <test-method signature="VerifyEnabledbutton()[pri:2, instance:playwright.tests.Assignment_one@28eaa59a]" started-at="2026-03-24T22:20:38 IST" name="VerifyEnabledbutton" finished-at="2026-03-24T22:20:38 IST" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyEnabledbutton -->
+        <test-method is-config="true" signature="Navigate()[pri:0, instance:playwright.tests.Assignment_one@28eaa59a]" started-at="2026-03-24T22:20:38 IST" name="Navigate" finished-at="2026-03-24T22:20:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method signature="VerifyHomebutton()[pri:3, instance:playwright.tests.Assignment_one@28eaa59a]" started-at="2026-03-24T22:20:38 IST" name="VerifyHomebutton" finished-at="2026-03-24T22:20:39 IST" duration-ms="1036" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyHomebutton -->
+        <test-method is-config="true" signature="ClearBrowserCache()[pri:0, instance:playwright.tests.Assignment_one@28eaa59a]" started-at="2026-03-24T22:20:38 IST" name="ClearBrowserCache" finished-at="2026-03-24T22:20:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClearBrowserCache -->
+        <test-method is-config="true" signature="Navigate()[pri:0, instance:playwright.tests.Assignment_one@28eaa59a]" started-at="2026-03-24T22:20:39 IST" name="Navigate" finished-at="2026-03-24T22:20:39 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Navigate -->
+        <test-method is-config="true" signature="CloseTest()[pri:0, instance:playwright.tests.Assignment_one@28eaa59a]" started-at="2026-03-24T22:20:39 IST" name="CloseTest" finished-at="2026-03-24T22:20:39 IST" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseTest -->
+      </class> <!-- playwright.tests.Assignment_one -->
+    </test> <!-- Assignment One Test -->
+  </suite> <!-- Playwright Suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+# Created at 2026-03-17T08:57:32.127
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Pranoday\Ness_Playwright_Java_Batch\PlayWrightScripts\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
